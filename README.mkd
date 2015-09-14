@@ -2,3 +2,5 @@ Awesome WM 1944 Mustang
 =======================
 
 An Awesome 3.5 theme based on the Adobe Kuler 1944 Mustang theme.
+
+Background from http://blog.burningman.com/2015/09/building-brc/and-thats-that/

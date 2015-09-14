@@ -77,7 +77,7 @@ theme.titlebar_maximized_button_normal_active = File.join(__DIR__, "titlebar/max
 theme.titlebar_maximized_button_focus_active  = File.join(__DIR__, "titlebar/maximized_focus_active.png")
 
 -- TODO
--- theme.wallpaper = File.join(__DIR__, "background.png")
+theme.wallpaper = File.join(__DIR__, "background.jpg")
 
 -- You can use your own layout icons like this:
 theme.layout_fairh = File.join(__DIR__, "layouts/fairhw.png")
